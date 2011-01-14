@@ -1,4 +1,3 @@
-
 /*
  * Copyright (C) 2007 The Android Open Source Project
  *
@@ -84,6 +83,7 @@ class BrowserSettings extends Observable {
     private boolean landscapeOnly;
     private boolean loadsPageInOverviewMode;
     private boolean showDebugSettings;
+    private boolean showZoomControls = false;
     // HTML5 API flags
     private boolean appCacheEnabled;
     private boolean databaseEnabled;
