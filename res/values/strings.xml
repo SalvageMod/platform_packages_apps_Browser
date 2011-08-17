@@ -756,4 +756,6 @@
     <string name="pref_show_zoom_controls">Show zoom controls</string>
     <string name="pref_full_screen_mode">Full screen mode</string>
 
+    <!-- Access point for RLZ tracking. -->
+    <string name="rlz_access_point" translatable="false">Y1</string>
 </resources>
